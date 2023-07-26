@@ -7,6 +7,7 @@ dependencies:
   file_picker: ^5.3.2  //Add this package for getting files from your device for sharing
   path_provider: ^2.0.15 // Add this package for downloading urlimage 
 
+// Make Sure internet is on while geeting image from url function    
 --------------------Android Permission---------------------
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
